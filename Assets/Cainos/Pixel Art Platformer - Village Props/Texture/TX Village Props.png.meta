@@ -1,0 +1,3578 @@
+fileFormatVersion: 2
+guid: 7810966f0f690954c87305933cabf2b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TX Village Props Crate Large
+  - first:
+      213: 21300002
+    second: TX Village Props Crate Small
+  - first:
+      213: 21300004
+    second: TX Village Props Chest
+  - first:
+      213: 21300006
+    second: TX Village Props Chest Opened
+  - first:
+      213: 21300008
+    second: TX Village Props Barrel
+  - first:
+      213: 21300010
+    second: TX Village Props Pot A
+  - first:
+      213: 21300012
+    second: TX Village Props Pot B
+  - first:
+      213: 21300014
+    second: TX Village Props Pot C
+  - first:
+      213: 21300016
+    second: TX Village Props Road Lamp
+  - first:
+      213: 21300018
+    second: TX Village Props Road Lamp Light Off
+  - first:
+      213: 21300020
+    second: TX Village Props Road Lamp Light On
+  - first:
+      213: 21300022
+    second: TX Village Props Torch
+  - first:
+      213: 21300024
+    second: TX Village Props Fence A Pillar A
+  - first:
+      213: 21300026
+    second: TX Village Props Fence A Pillar B
+  - first:
+      213: 21300028
+    second: TX Village Props Fence A Pillar C
+  - first:
+      213: 21300030
+    second: TX Village Props Fence A Rail A
+  - first:
+      213: 21300032
+    second: TX Village Props Fence A Rail B
+  - first:
+      213: 21300034
+    second: TX Village Props Fence A Rail C
+  - first:
+      213: 21300036
+    second: TX Village Props Fence A Nail
+  - first:
+      213: 21300038
+    second: TX Village Props Fence B Pillar
+  - first:
+      213: 21300040
+    second: TX Village Props Fence B Rail
+  - first:
+      213: 21300042
+    second: TX Village Props Road Sign A
+  - first:
+      213: 21300044
+    second: TX Village Props Road Sign B
+  - first:
+      213: 21300046
+    second: TX Village Props Road Sign Text A
+  - first:
+      213: 21300048
+    second: TX Village Props Road Sign Text B
+  - first:
+      213: 21300050
+    second: TX Village Props Road Sign Text C
+  - first:
+      213: 21300052
+    second: TX Village Props Billboard
+  - first:
+      213: 21300054
+    second: TX Village Props Billboard Noti A
+  - first:
+      213: 21300056
+    second: TX Village Props Billboard Noti D
+  - first:
+      213: 21300058
+    second: TX Village Props Billboard Noti B
+  - first:
+      213: 21300060
+    second: TX Village Props Billboard Noti C
+  - first:
+      213: 21300062
+    second: TX Village Props Stump
+  - first:
+      213: 21300064
+    second: TX Village Props Axe
+  - first:
+      213: 21300066
+    second: TX Village Props Well
+  - first:
+      213: 21300068
+    second: TX Village Props Bucket
+  - first:
+      213: 21300070
+    second: TX Village Props Ladder T
+  - first:
+      213: 21300072
+    second: TX Village Props Ladder M
+  - first:
+      213: 21300074
+    second: TX Village Props B
+  - first:
+      213: 21300076
+    second: TX Village Props Hay Bale
+  - first:
+      213: 21300078
+    second: TX Village Props Hay Pile
+  - first:
+      213: 21300080
+    second: TX Village Props Hay Fork
+  - first:
+      213: 21300082
+    second: TX Village Props Scarecrow
+  - first:
+      213: 21300084
+    second: TX Village Props Anvil
+  - first:
+      213: 21300086
+    second: TX Village Props Gravestone A
+  - first:
+      213: 21300088
+    second: TX Village Props Gravestone B
+  - first:
+      213: 21300090
+    second: TX Village Props Gravestone C
+  - first:
+      213: 21300092
+    second: TX Village Props Gravestone D
+  - first:
+      213: 21300094
+    second: TX Village Props Grass A
+  - first:
+      213: 21300096
+    second: TX Village Props Grass B
+  - first:
+      213: 21300098
+    second: TX Village Props Grass C
+  - first:
+      213: 21300100
+    second: TX Village Props Flower A
+  - first:
+      213: 21300102
+    second: TX Village Props Grass D
+  - first:
+      213: 21300104
+    second: TX Village Props Grass E
+  - first:
+      213: 21300106
+    second: TX Village Props Grass F
+  - first:
+      213: 21300108
+    second: TX Village Props Flower B
+  - first:
+      213: 21300110
+    second: TX Village Props Bush A
+  - first:
+      213: 21300112
+    second: TX Village Props Bush B
+  - first:
+      213: 21300114
+    second: TX Village Props Bush C
+  - first:
+      213: 21300116
+    second: TX Village Props Wheelbarrow
+  - first:
+      213: 21300118
+    second: TX Village Props Wheelbarrow Wheel
+  - first:
+      213: 21300120
+    second: TX Village Props Tree
+  - first:
+      213: 21300122
+    second: TX Village Props Banner Pillar
+  - first:
+      213: 21300124
+    second: TX Village Props Banner
+  - first:
+      213: 21300126
+    second: TX Village Props Wood Logs
+  - first:
+      213: 21300128
+    second: TX Village Props Campfire
+  - first:
+      213: 21300130
+    second: TX Village Props Gunny Bag A
+  - first:
+      213: 21300132
+    second: TX Village Props Gunny Bag B
+  - first:
+      213: 21300134
+    second: TX Village Props Rock A
+  - first:
+      213: 21300136
+    second: TX Village Props Rock B
+  - first:
+      213: 21300138
+    second: TX Village Props Rock C
+  - first:
+      213: -3806943691756881100
+    second: TX Village Props_0
+  - first:
+      213: 9202163618114184290
+    second: TX Village Props_1
+  - first:
+      213: 5803455356149086885
+    second: TX Village Props_2
+  - first:
+      213: 3325885465304735478
+    second: TX Village Props_3
+  - first:
+      213: -2052889030473512461
+    second: TX Village Props_4
+  - first:
+      213: -8353649271199622519
+    second: TX Village Props_5
+  - first:
+      213: -996102965649306420
+    second: TX Village Props_6
+  - first:
+      213: -8851566310641887263
+    second: TX Village Props_7
+  - first:
+      213: -2305204071527019509
+    second: TX Village Props_8
+  - first:
+      213: 4043336235166259366
+    second: TX Village Props_9
+  - first:
+      213: 1869448426372411155
+    second: TX Village Props_10
+  - first:
+      213: 1525665788296376077
+    second: TX Village Props_11
+  - first:
+      213: 1834572546528341463
+    second: TX Village Props_12
+  - first:
+      213: -2372780660111545611
+    second: TX Village Props_13
+  - first:
+      213: -2152553858764809784
+    second: TX Village Props_14
+  - first:
+      213: 193480320419989925
+    second: TX Village Props_15
+  - first:
+      213: 6914486449696852669
+    second: TX Village Props_16
+  - first:
+      213: -8472088281656665103
+    second: TX Village Props_17
+  - first:
+      213: 9090068966071595084
+    second: TX Village Props_18
+  - first:
+      213: 6952856608175333534
+    second: TX Village Props_19
+  - first:
+      213: -5070035189846953373
+    second: TX Village Props_20
+  - first:
+      213: 3323860611593164432
+    second: TX Village Props_21
+  - first:
+      213: -825778320214100194
+    second: TX Village Props_22
+  - first:
+      213: 1270411181061350777
+    second: TX Village Props_23
+  - first:
+      213: 36442514687755891
+    second: TX Village Props_24
+  - first:
+      213: -7401429276319471168
+    second: TX Village Props_25
+  - first:
+      213: -5829885690021563978
+    second: TX Village Props_26
+  - first:
+      213: 7569820792969644933
+    second: TX Village Props_27
+  - first:
+      213: -151089886132204264
+    second: TX Village Props_28
+  - first:
+      213: 4309315821430117634
+    second: TX Village Props_29
+  - first:
+      213: -1178898175854549403
+    second: TX Village Props_30
+  - first:
+      213: 3739738541205097307
+    second: TX Village Props_31
+  - first:
+      213: 5609814161109826937
+    second: TX Village Props_32
+  - first:
+      213: 987351604337419884
+    second: TX Village Props_33
+  - first:
+      213: -5129409008430789531
+    second: TX Village Props_34
+  - first:
+      213: -5975279711075545993
+    second: TX Village Props_35
+  - first:
+      213: -118116383779398107
+    second: TX Village Props_36
+  - first:
+      213: -1940723075617620017
+    second: TX Village Props_37
+  - first:
+      213: 8988621687123879679
+    second: TX Village Props_38
+  - first:
+      213: -5732904109540850938
+    second: TX Village Props_39
+  - first:
+      213: -4726597399249516062
+    second: TX Village Props_40
+  - first:
+      213: 7010505304851258987
+    second: TX Village Props_41
+  - first:
+      213: -8151615092473205008
+    second: TX Village Props_42
+  - first:
+      213: 2477197507354023845
+    second: TX Village Props_43
+  - first:
+      213: -8783787247767299470
+    second: TX Village Props_44
+  - first:
+      213: 3294144935178783000
+    second: TX Village Props_45
+  - first:
+      213: 4751279504820561396
+    second: TX Village Props_46
+  - first:
+      213: -6293755392642733989
+    second: TX Village Props_47
+  - first:
+      213: -4129239533103568986
+    second: TX Village Props_48
+  - first:
+      213: -2387928918544198317
+    second: TX Village Props_49
+  - first:
+      213: -7291300030420006163
+    second: TX Village Props_50
+  - first:
+      213: 4897271167373254529
+    second: TX Village Props_51
+  - first:
+      213: 6152948674498560206
+    second: TX Village Props_52
+  - first:
+      213: 480022907733187058
+    second: TX Village Props_53
+  - first:
+      213: 6404976508140121465
+    second: TX Village Props_54
+  - first:
+      213: 1351563366727975577
+    second: TX Village Props_55
+  - first:
+      213: -7561765283760099015
+    second: TX Village Props_56
+  - first:
+      213: -5056482727925330274
+    second: TX Village Props_57
+  - first:
+      213: -5550425257526537226
+    second: TX Village Props_58
+  - first:
+      213: 3283692861401560125
+    second: TX Village Props_59
+  - first:
+      213: -6168683190662309983
+    second: TX Village Props_60
+  - first:
+      213: 6138962704849034911
+    second: TX Village Props_61
+  - first:
+      213: -1060820844349752430
+    second: TX Village Props_62
+  - first:
+      213: 8750333729418153844
+    second: TX Village Props_63
+  - first:
+      213: -5745060858953901384
+    second: TX Village Props_64
+  - first:
+      213: -4500089493896326937
+    second: TX Village Props_65
+  - first:
+      213: -7206890810429940108
+    second: TX Village Props_66
+  - first:
+      213: 4520549330111009441
+    second: TX Village Props_67
+  - first:
+      213: -3352285371118752542
+    second: TX Village Props_68
+  - first:
+      213: -2936729732575071316
+    second: TX Village Props_69
+  - first:
+      213: -4511268829484776745
+    second: TX Village Props_70
+  - first:
+      213: -5185101326177162240
+    second: TX Village Props_71
+  - first:
+      213: 5529684998820425154
+    second: TX Village Props_72
+  - first:
+      213: -262717118766694709
+    second: TX Village Props_73
+  - first:
+      213: 6735284740165042017
+    second: TX Village Props_74
+  - first:
+      213: 8899894619232618589
+    second: TX Village Props_75
+  - first:
+      213: 1415062409499808607
+    second: TX Village Props_76
+  - first:
+      213: -6898913789076485428
+    second: TX Village Props_77
+  - first:
+      213: 2520127642702675112
+    second: TX Village Props_78
+  - first:
+      213: 3783104205481332636
+    second: TX Village Props_79
+  - first:
+      213: 5070304315051496561
+    second: TX Village Props_80
+  - first:
+      213: -240668455267134522
+    second: TX Village Props_81
+  - first:
+      213: -2574237513459631058
+    second: TX Village Props_82
+  - first:
+      213: 4956497218809784761
+    second: TX Village Props_83
+  - first:
+      213: -9063900994217774725
+    second: TX Village Props_84
+  - first:
+      213: 6541148406455141307
+    second: TX Village Props_85
+  - first:
+      213: -2640429132822804318
+    second: TX Village Props_86
+  - first:
+      213: -2816101660752073730
+    second: TX Village Props_87
+  - first:
+      213: -7201389968053240626
+    second: TX Village Props_88
+  - first:
+      213: -2332576712696041357
+    second: TX Village Props_89
+  - first:
+      213: -9127868951443763249
+    second: TX Village Props_90
+  - first:
+      213: -5490502730280185420
+    second: TX Village Props_91
+  - first:
+      213: 87725470165636201
+    second: TX Village Props_92
+  - first:
+      213: 1426085875669664499
+    second: TX Village Props_93
+  - first:
+      213: 1734734598363785258
+    second: TX Village Props_94
+  - first:
+      213: 202361904703521202
+    second: TX Village Props_95
+  - first:
+      213: 3666967232162708266
+    second: TX Village Props_96
+  - first:
+      213: 991712017420822574
+    second: TX Village Props_97
+  - first:
+      213: -8892651525179900130
+    second: TX Village Props_98
+  - first:
+      213: 437199015645751835
+    second: TX Village Props_99
+  - first:
+      213: 5007809456758787693
+    second: TX Village Props_100
+  - first:
+      213: 2306875984954404879
+    second: TX Village Props_101
+  - first:
+      213: -5637218670440846097
+    second: TX Village Props_102
+  - first:
+      213: -6384066341393380751
+    second: TX Village Props_103
+  - first:
+      213: 7465392862736414785
+    second: TX Village Props_104
+  - first:
+      213: -6463894943579136568
+    second: TX Village Props_105
+  - first:
+      213: -1746665180499656511
+    second: TX Village Props_106
+  - first:
+      213: 5993197786612353251
+    second: TX Village Props_107
+  - first:
+      213: -5048821498459544724
+    second: TX Village Props_108
+  - first:
+      213: -3652458658744929646
+    second: TX Village Props_109
+  - first:
+      213: 6786199844044620980
+    second: TX Village Props_110
+  - first:
+      213: 7416476369628076214
+    second: TX Village Props_111
+  - first:
+      213: 1486886478644210460
+    second: TX Village Props_0
+  - first:
+      213: -4735754251626806338
+    second: TX Village Props_1
+  - first:
+      213: -4335824153456147579
+    second: TX Village Props_2
+  - first:
+      213: 4732096798645734099
+    second: TX Village Props_3
+  - first:
+      213: -4994590243424670523
+    second: TX Village Props_4
+  - first:
+      213: 2696746778709631771
+    second: TX Village Props_5
+  - first:
+      213: -4951886581379645941
+    second: TX Village Props_6
+  - first:
+      213: 2206925396351322945
+    second: TX Village Props_7
+  - first:
+      213: 4251597915306893488
+    second: TX Village Props_8
+  - first:
+      213: -8380451233417368952
+    second: TX Village Props_9
+  - first:
+      213: -1825740931734564038
+    second: TX Village Props_10
+  - first:
+      213: 1017557644938550938
+    second: TX Village Props_11
+  - first:
+      213: 7706517051168516450
+    second: TX Village Props_12
+  - first:
+      213: -4020215355764070269
+    second: TX Village Props_13
+  - first:
+      213: 5558817184931834347
+    second: TX Village Props_14
+  - first:
+      213: 2795017368465616972
+    second: TX Village Props_15
+  - first:
+      213: -6917870499737208704
+    second: TX Village Props_16
+  - first:
+      213: -454132368436477138
+    second: TX Village Props_17
+  - first:
+      213: 2014597444729882505
+    second: TX Village Props_18
+  - first:
+      213: 5910821799018508211
+    second: TX Village Props_19
+  - first:
+      213: -2762677573023367823
+    second: TX Village Props_20
+  - first:
+      213: -2917893430863526541
+    second: TX Village Props_21
+  - first:
+      213: 8887137025434845088
+    second: TX Village Props_22
+  - first:
+      213: 5739580312575543469
+    second: TX Village Props_23
+  - first:
+      213: -5742433235074393073
+    second: TX Village Props_24
+  - first:
+      213: -1037219870388771717
+    second: TX Village Props_25
+  - first:
+      213: -5616422834201524141
+    second: TX Village Props_26
+  - first:
+      213: -4046409306804906269
+    second: TX Village Props_27
+  - first:
+      213: -8225890836341481029
+    second: TX Village Props_28
+  - first:
+      213: 6116089698637592043
+    second: TX Village Props_29
+  - first:
+      213: -3301963254420956640
+    second: TX Village Props_30
+  - first:
+      213: -6670003924303224352
+    second: TX Village Props_31
+  - first:
+      213: -1545494805016420327
+    second: TX Village Props_32
+  - first:
+      213: 9079029388052227697
+    second: TX Village Props_33
+  - first:
+      213: 8893293076062121246
+    second: TX Village Props_34
+  - first:
+      213: 2882113297634872891
+    second: TX Village Props_35
+  - first:
+      213: -6659051594157804580
+    second: TX Village Props_36
+  - first:
+      213: -3831297575454123378
+    second: TX Village Props_37
+  - first:
+      213: -7090844714617947645
+    second: TX Village Props_38
+  - first:
+      213: -8248116116781604426
+    second: TX Village Props_39
+  - first:
+      213: -7030898216405992398
+    second: TX Village Props_40
+  - first:
+      213: 4939565583750872262
+    second: TX Village Props_41
+  - first:
+      213: 8467740199681915834
+    second: TX Village Props_42
+  - first:
+      213: -8059421641884562397
+    second: TX Village Props_43
+  - first:
+      213: 612289612908662662
+    second: TX Village Props_44
+  - first:
+      213: -4927520920469075542
+    second: TX Village Props_45
+  - first:
+      213: 2272925624736042976
+    second: TX Village Props_46
+  - first:
+      213: -5498680375604937676
+    second: TX Village Props_47
+  - first:
+      213: -4691759517471508735
+    second: TX Village Props_48
+  - first:
+      213: -8481372250807382872
+    second: TX Village Props_49
+  - first:
+      213: -4211464006963705457
+    second: TX Village Props_50
+  - first:
+      213: 2958560764248125516
+    second: TX Village Props_51
+  - first:
+      213: -5403619060268390318
+    second: TX Village Props_52
+  - first:
+      213: 1579030487809385918
+    second: TX Village Props_53
+  - first:
+      213: 7144370080441541854
+    second: TX Village Props_54
+  - first:
+      213: 5140309541755051048
+    second: TX Village Props_55
+  - first:
+      213: 4104793001814572972
+    second: TX Village Props_56
+  - first:
+      213: 7648925465141937864
+    second: TX Village Props_57
+  - first:
+      213: -3542885327204461466
+    second: TX Village Props_58
+  - first:
+      213: 5002557910120092095
+    second: TX Village Props_59
+  - first:
+      213: -8833349823190802080
+    second: TX Village Props_60
+  - first:
+      213: -8823476549356354251
+    second: TX Village Props_61
+  - first:
+      213: -7069497229602934424
+    second: TX Village Props_62
+  - first:
+      213: 8441755071956971591
+    second: TX Village Props_63
+  - first:
+      213: -6282216084711485150
+    second: TX Village Props_64
+  - first:
+      213: 8652852782002691121
+    second: TX Village Props_65
+  - first:
+      213: -3380130384920863053
+    second: TX Village Props_66
+  - first:
+      213: -769034165249289748
+    second: TX Village Props_67
+  - first:
+      213: -7184512857666894357
+    second: TX Village Props_68
+  - first:
+      213: 5997684122699470589
+    second: TX Village Props_69
+  - first:
+      213: 396053848976685068
+    second: TX Village Props_70
+  - first:
+      213: -4004371625034144912
+    second: TX Village Props_71
+  - first:
+      213: 5168943402982838798
+    second: TX Village Props_72
+  - first:
+      213: 1212602758521088101
+    second: TX Village Props_73
+  - first:
+      213: -2131389404964052767
+    second: TX Village Props_74
+  - first:
+      213: -4364802370129879526
+    second: TX Village Props_75
+  - first:
+      213: -2847073639132959946
+    second: TX Village Props_76
+  - first:
+      213: -2613830801309016360
+    second: TX Village Props_77
+  - first:
+      213: -1180177418473122643
+    second: TX Village Props_78
+  - first:
+      213: -4741269750627892234
+    second: TX Village Props_79
+  - first:
+      213: 4572108878292894171
+    second: TX Village Props_80
+  - first:
+      213: -3028129925670154071
+    second: TX Village Props_81
+  - first:
+      213: -1611829487034538687
+    second: TX Village Props_82
+  - first:
+      213: -5257428279494879503
+    second: TX Village Props_83
+  - first:
+      213: 6035914157241551879
+    second: TX Village Props_84
+  - first:
+      213: 6417101414028785167
+    second: TX Village Props_85
+  - first:
+      213: 4442864707246231129
+    second: TX Village Props_86
+  - first:
+      213: -4091674594597625537
+    second: TX Village Props_87
+  - first:
+      213: -5073115844220977819
+    second: TX Village Props_88
+  - first:
+      213: 7024007707233707572
+    second: TX Village Props_89
+  - first:
+      213: -5068369001521472024
+    second: TX Village Props_90
+  - first:
+      213: -1155159498233471742
+    second: TX Village Props_91
+  - first:
+      213: -1250218254279028170
+    second: TX Village Props_92
+  - first:
+      213: -4114448941189867804
+    second: TX Village Props_93
+  - first:
+      213: -905838037573403561
+    second: TX Village Props_94
+  - first:
+      213: -4842502243742475269
+    second: TX Village Props_95
+  - first:
+      213: 1920547285720326938
+    second: TX Village Props_96
+  - first:
+      213: 8208981446595790206
+    second: TX Village Props_97
+  - first:
+      213: -593025199643163498
+    second: TX Village Props_98
+  - first:
+      213: -5741096924494976780
+    second: TX Village Props_99
+  - first:
+      213: 3886734010382401686
+    second: TX Village Props_100
+  - first:
+      213: 5862517509333300610
+    second: TX Village Props_101
+  - first:
+      213: -7370980209724769874
+    second: TX Village Props_102
+  - first:
+      213: 7135095750110507208
+    second: TX Village Props_103
+  - first:
+      213: -339830036254180692
+    second: TX Village Props_104
+  - first:
+      213: 1648244246253902164
+    second: TX Village Props_105
+  - first:
+      213: -6231366551144778636
+    second: TX Village Props_106
+  - first:
+      213: 6560040231831227903
+    second: TX Village Props_107
+  - first:
+      213: -7016619694924426144
+    second: TX Village Props_108
+  - first:
+      213: 6274531363239528270
+    second: TX Village Props_109
+  - first:
+      213: 1930459177066415058
+    second: TX Village Props_110
+  - first:
+      213: 7194247151055274086
+    second: TX Village Props_112
+  - first:
+      213: 5056577952138134759
+    second: TX Village Props_113
+  - first:
+      213: 8314400138140667480
+    second: TX Village Props_114
+  - first:
+      213: 5623776885902717061
+    second: TX Village Props_115
+  - first:
+      213: -4728824556302559520
+    second: TX Village Props_116
+  - first:
+      213: 6812195019094094335
+    second: TX Village Props_117
+  - first:
+      213: 4064365658156196728
+    second: TX Village Props_118
+  - first:
+      213: -3840795757347775783
+    second: TX Village Props_119
+  - first:
+      213: -2625589649356116398
+    second: TX Village Props_120
+  - first:
+      213: 4354133572485782140
+    second: TX Village Props_121
+  - first:
+      213: -1894947061140257331
+    second: TX Village Props_122
+  - first:
+      213: -6617872910931542113
+    second: TX Village Props_123
+  - first:
+      213: -3958332567218359645
+    second: TX Village Props_124
+  - first:
+      213: -2355689891415144014
+    second: TX Village Props_125
+  - first:
+      213: 4217547216346216784
+    second: TX Village Props_126
+  - first:
+      213: 4917674728748672235
+    second: TX Village Props_127
+  - first:
+      213: -4723100595522357857
+    second: TX Village Props_128
+  - first:
+      213: -1785922254742391356
+    second: TX Village Props_129
+  - first:
+      213: 722769576266419455
+    second: TX Village Props_130
+  - first:
+      213: 5025334043683600051
+    second: TX Village Props_131
+  - first:
+      213: -4722328367209929147
+    second: TX Village Props_132
+  - first:
+      213: 8764429913198262064
+    second: TX Village Props_133
+  - first:
+      213: 8179500775789577335
+    second: TX Village Props_134
+  - first:
+      213: -7348416080263582645
+    second: TX Village Props_135
+  - first:
+      213: -7427581905797399294
+    second: TX Village Props_136
+  - first:
+      213: -2559192290656699971
+    second: TX Village Props_137
+  - first:
+      213: 7155909070903036492
+    second: TX Village Props_138
+  - first:
+      213: 2867834633988629733
+    second: TX Village Props_139
+  - first:
+      213: -5472437790484431347
+    second: TX Village Props_140
+  - first:
+      213: -8899386562290401536
+    second: TX Village Props_141
+  - first:
+      213: 2733464023662314450
+    second: TX Village Props_142
+  - first:
+      213: -1952746807507968388
+    second: TX Village Props_143
+  - first:
+      213: -255496243457901146
+    second: TX Village Props_144
+  - first:
+      213: 3467794410143443174
+    second: TX Village Props_145
+  - first:
+      213: -1848193748905263567
+    second: TX Village Props_146
+  - first:
+      213: -8037107694002977088
+    second: TX Village Props_147
+  - first:
+      213: 6847373164338228700
+    second: TX Village Props_148
+  - first:
+      213: 6794285830229466620
+    second: TX Village Props_149
+  - first:
+      213: 5897711625974391020
+    second: TX Village Props_150
+  - first:
+      213: -8694439083292588712
+    second: TX Village Props_151
+  - first:
+      213: 6556129851477368669
+    second: TX Village Props_152
+  - first:
+      213: -6603462496737745671
+    second: TX Village Props_153
+  - first:
+      213: 4968586301360960953
+    second: TX Village Props_154
+  - first:
+      213: 2840713609321779653
+    second: TX Village Props_155
+  - first:
+      213: 5475024475773808424
+    second: TX Village Props_156
+  - first:
+      213: 5908329271895006431
+    second: TX Village Props_157
+  - first:
+      213: 8551109428613027559
+    second: TX Village Props_158
+  - first:
+      213: -1415512833256141371
+    second: TX Village Props_159
+  - first:
+      213: 347755735972527258
+    second: TX Village Props_160
+  - first:
+      213: 2195619441462391101
+    second: TX Village Props_161
+  - first:
+      213: -7784838294576870530
+    second: TX Village Props_162
+  - first:
+      213: -1137877955172804262
+    second: TX Village Props_163
+  - first:
+      213: 3225740610282390120
+    second: TX Village Props_164
+  - first:
+      213: -6724271501235067412
+    second: TX Village Props_165
+  - first:
+      213: 3262162930797338856
+    second: TX Village Props_166
+  - first:
+      213: -4551085921980074827
+    second: TX Village Props_167
+  - first:
+      213: 545231611213694700
+    second: TX Village Props_168
+  - first:
+      213: 4294099778423319493
+    second: TX Village Props_169
+  - first:
+      213: 8710737537350242352
+    second: TX Village Props_170
+  - first:
+      213: 647083273823048958
+    second: TX Village Props_171
+  - first:
+      213: 7443190238845835570
+    second: TX Village Props_172
+  - first:
+      213: 5073976542869893377
+    second: TX Village Props_173
+  - first:
+      213: -9195773149821105398
+    second: TX Village Props_174
+  - first:
+      213: -2295795702922789697
+    second: TX Village Props_175
+  - first:
+      213: -867839795024168000
+    second: TX Village Props_176
+  - first:
+      213: 1744749442538470242
+    second: TX Village Props_177
+  - first:
+      213: -6268982310812797517
+    second: TX Village Props_178
+  - first:
+      213: -376781426703980157
+    second: TX Village Props_179
+  - first:
+      213: 5505094046943091637
+    second: TX Village Props_180
+  - first:
+      213: -5428924392558604593
+    second: TX Village Props_181
+  - first:
+      213: 4401264202788974789
+    second: TX Village Props_182
+  - first:
+      213: 3863226369835543217
+    second: TX Village Props_183
+  - first:
+      213: 3638911906326890797
+    second: TX Village Props_184
+  - first:
+      213: -485127787114526692
+    second: TX Village Props_185
+  - first:
+      213: -6558560532683289624
+    second: TX Village Props_186
+  - first:
+      213: 1878754997242480562
+    second: TX Village Props_187
+  - first:
+      213: 2575698404109658584
+    second: TX Village Props_188
+  - first:
+      213: 5275776815555148926
+    second: TX Village Props_189
+  - first:
+      213: -8083000819227438796
+    second: TX Village Props_190
+  - first:
+      213: -8519454211708925473
+    second: TX Village Props_191
+  - first:
+      213: -4291687838012822374
+    second: TX Village Props_192
+  - first:
+      213: 7294007985299213136
+    second: TX Village Props_193
+  - first:
+      213: -9086970725786459431
+    second: TX Village Props_194
+  - first:
+      213: -6346803055867319398
+    second: TX Village Props_195
+  - first:
+      213: -5836700251974623747
+    second: TX Village Props_196
+  - first:
+      213: -4486541982020515546
+    second: TX Village Props_197
+  - first:
+      213: 9087321093883790237
+    second: TX Village Props_198
+  - first:
+      213: -4096464837214816759
+    second: TX Village Props_199
+  - first:
+      213: -7911566185971055907
+    second: TX Village Props_200
+  - first:
+      213: 5395984975217440707
+    second: TX Village Props_201
+  - first:
+      213: 208305335634900901
+    second: TX Village Props_202
+  - first:
+      213: 3677207732418293456
+    second: TX Village Props_203
+  - first:
+      213: 1557795320096060056
+    second: TX Village Props_204
+  - first:
+      213: 6120830534032088093
+    second: TX Village Props_205
+  - first:
+      213: 3617088466136979292
+    second: TX Village Props_206
+  - first:
+      213: -5446006310287284059
+    second: TX Village Props_207
+  - first:
+      213: 1260142480297672982
+    second: TX Village Props_208
+  - first:
+      213: 3491481036098456732
+    second: TX Village Props_209
+  - first:
+      213: -3977944677875358268
+    second: TX Village Props_210
+  - first:
+      213: 1303852598604894597
+    second: TX Village Props_211
+  - first:
+      213: -2311109084016179801
+    second: TX Village Props_212
+  - first:
+      213: -1767476893531375891
+    second: TX Village Props_213
+  - first:
+      213: -6697322399888967324
+    second: TX Village Props_214
+  - first:
+      213: -6176837284320774944
+    second: TX Village Props_215
+  - first:
+      213: -2073943923586707957
+    second: TX Village Props_216
+  - first:
+      213: -8459157549320503478
+    second: TX Village Props_217
+  - first:
+      213: -8313263961721804764
+    second: TX Village Props_218
+  - first:
+      213: 13735077089593804
+    second: TX Village Props_219
+  - first:
+      213: -8908457728366806153
+    second: TX Village Props_220
+  - first:
+      213: -3975131202925410182
+    second: TX Village Props_221
+  - first:
+      213: 2738804642381870411
+    second: TX Village Props_222
+  - first:
+      213: -4014917380726172639
+    second: TX Village Props_223
+  - first:
+      213: 1686906587753066805
+    second: TX Village Props_224
+  - first:
+      213: -4801535825982681366
+    second: TX Village Props_225
+  - first:
+      213: -3807145231103015721
+    second: TX Village Props_226
+  - first:
+      213: -9155043725846858701
+    second: TX Village Props_227
+  - first:
+      213: -3544592897311514088
+    second: TX Village Props_228
+  - first:
+      213: 2656351719255837577
+    second: TX Village Props_229
+  - first:
+      213: 1987361618394327545
+    second: TX Village Props_230
+  - first:
+      213: 8893609990047528432
+    second: TX Village Props_231
+  - first:
+      213: -495590096009361145
+    second: TX Village Props_232
+  - first:
+      213: 5114683448550704474
+    second: TX Village Props_233
+  - first:
+      213: 8014861173157322012
+    second: TX Village Props_234
+  - first:
+      213: -1765462745218459300
+    second: TX Village Props_235
+  - first:
+      213: -3750130385943143853
+    second: TX Village Props_236
+  - first:
+      213: -2567966954491189088
+    second: TX Village Props_237
+  - first:
+      213: 1308994357315834871
+    second: TX Village Props_238
+  - first:
+      213: -2957426039496677287
+    second: TX Village Props_239
+  - first:
+      213: -405616197677328149
+    second: TX Village Props_240
+  - first:
+      213: -7168833030664530555
+    second: TX Village Props_241
+  - first:
+      213: -1957020588637130519
+    second: TX Village Props_242
+  - first:
+      213: -4747158780245729130
+    second: TX Village Props_243
+  - first:
+      213: -2599645597023831527
+    second: TX Village Props_244
+  - first:
+      213: 2511466889231453303
+    second: TX Village Props_245
+  - first:
+      213: 5548000455213677254
+    second: TX Village Props_246
+  - first:
+      213: -2954617667345721768
+    second: TX Village Props_247
+  - first:
+      213: 2599410484060304533
+    second: TX Village Props_248
+  - first:
+      213: -983540191460388325
+    second: TX Village Props_249
+  - first:
+      213: -8435107277798369782
+    second: TX Village Props_250
+  - first:
+      213: 5261066564055004591
+    second: TX Village Props_251
+  - first:
+      213: -4179116139560336614
+    second: TX Village Props_252
+  - first:
+      213: 6072108866001745795
+    second: TX Village Props_253
+  - first:
+      213: -2144577708852496854
+    second: TX Village Props_254
+  - first:
+      213: 1824240045845480402
+    second: TX Village Props_255
+  - first:
+      213: -4500119129053102331
+    second: TX Village Props_256
+  - first:
+      213: -4451859366332227261
+    second: TX Village Props_257
+  - first:
+      213: -8668898281885573833
+    second: TX Village Props_258
+  - first:
+      213: -8564868788863221878
+    second: TX Village Props_259
+  - first:
+      213: -8150622712575255993
+    second: TX Village Props_260
+  - first:
+      213: 1489319484724284358
+    second: TX Village Props_261
+  - first:
+      213: -9043468405646394124
+    second: TX Village Props_262
+  - first:
+      213: 6634698340590701560
+    second: TX Village Props_263
+  - first:
+      213: -5562618376527639046
+    second: TX Village Props_264
+  - first:
+      213: 5454645799604225348
+    second: TX Village Props_265
+  - first:
+      213: -2930827240136300832
+    second: TX Village Props_266
+  - first:
+      213: 3238707339302719321
+    second: TX Village Props_267
+  - first:
+      213: 6076752733230730115
+    second: TX Village Props_268
+  - first:
+      213: 7646673298352647770
+    second: TX Village Props_269
+  - first:
+      213: 6495882169741300544
+    second: TX Village Props_270
+  - first:
+      213: 1675583857871061745
+    second: TX Village Props_271
+  - first:
+      213: 7237617612672166213
+    second: TX Village Props_272
+  - first:
+      213: 5870010699934330808
+    second: TX Village Props_273
+  - first:
+      213: -8111665466395584075
+    second: TX Village Props_274
+  - first:
+      213: -4273651548604453155
+    second: TX Village Props_275
+  - first:
+      213: 7854436102388443995
+    second: TX Village Props_276
+  - first:
+      213: 3380947715976477314
+    second: TX Village Props_277
+  - first:
+      213: -8640045491320671655
+    second: TX Village Props_278
+  - first:
+      213: -965742136817369202
+    second: TX Village Props_279
+  - first:
+      213: 7495933969508722713
+    second: TX Village Props_280
+  - first:
+      213: 2338052438628132981
+    second: TX Village Props_281
+  - first:
+      213: 4650919090887760683
+    second: TX Village Props_282
+  - first:
+      213: -3718199894644106788
+    second: TX Village Props_283
+  - first:
+      213: 2858938789370382904
+    second: TX Village Props_284
+  - first:
+      213: -8533611762947812161
+    second: TX Village Props_285
+  - first:
+      213: 1030516100867173574
+    second: TX Village Props_286
+  - first:
+      213: 5615801401886866716
+    second: TX Village Props_287
+  - first:
+      213: -7025981883141375959
+    second: TX Village Props_288
+  - first:
+      213: 6925286269534574974
+    second: TX Village Props_289
+  - first:
+      213: 1130452089576276098
+    second: TX Village Props_290
+  - first:
+      213: 658228786745336768
+    second: TX Village Props_291
+  - first:
+      213: -2085813939476597932
+    second: TX Village Props_292
+  - first:
+      213: 6148892260791740469
+    second: TX Village Props_293
+  - first:
+      213: -5273998506867058065
+    second: TX Village Props_294
+  - first:
+      213: 39367818627984123
+    second: TX Village Props_295
+  - first:
+      213: 1605070654782520360
+    second: TX Village Props_296
+  - first:
+      213: 9144478810337245617
+    second: TX Village Props_297
+  - first:
+      213: 5670539208655740912
+    second: TX Village Props_298
+  - first:
+      213: 3135467987203810466
+    second: TX Village Props_299
+  - first:
+      213: 4597031004214310347
+    second: TX Village Props_300
+  - first:
+      213: 1661896218392610404
+    second: TX Village Props_301
+  - first:
+      213: 3737582029929857107
+    second: TX Village Props_302
+  - first:
+      213: 1475826685941824701
+    second: TX Village Props_303
+  - first:
+      213: -3656604582015825479
+    second: TX Village Props_304
+  - first:
+      213: -3536687107465312572
+    second: TX Village Props_305
+  - first:
+      213: -4139451008985907696
+    second: TX Village Props_306
+  - first:
+      213: -4729326098071207184
+    second: TX Village Props_307
+  - first:
+      213: 2810793168819335823
+    second: TX Village Props_308
+  - first:
+      213: 3303307201646404843
+    second: TX Village Props_309
+  - first:
+      213: 4929148539845243049
+    second: TX Village Props_310
+  - first:
+      213: 70305848950145949
+    second: TX Village Props_311
+  - first:
+      213: 49704975202710568
+    second: TX Village Props_312
+  - first:
+      213: 7439093718871481673
+    second: TX Village Props_313
+  - first:
+      213: 4055390673352113244
+    second: TX Village Props_314
+  - first:
+      213: 6701170640854189932
+    second: TX Village Props_315
+  - first:
+      213: 4444971802257881311
+    second: TX Village Props_316
+  - first:
+      213: 978705748735434331
+    second: TX Village Props_317
+  - first:
+      213: -2109266005321549721
+    second: TX Village Props_318
+  - first:
+      213: -216202784789593298
+    second: TX Village Props_319
+  - first:
+      213: 6006021301704274123
+    second: TX Village Props_320
+  - first:
+      213: -5676909616822130379
+    second: TX Village Props_321
+  - first:
+      213: 5092449409775998996
+    second: TX Village Props_322
+  - first:
+      213: -3679182465613676577
+    second: TX Village Props_323
+  - first:
+      213: -3189744773948333216
+    second: TX Village Props_324
+  - first:
+      213: 7323384636053985423
+    second: TX Village Props_325
+  - first:
+      213: 5925809912490800466
+    second: TX Village Props_326
+  - first:
+      213: -4772948028290258014
+    second: TX Village Props_327
+  - first:
+      213: -53762489005286247
+    second: TX Village Props_328
+  - first:
+      213: -6469045813530125861
+    second: TX Village Props_329
+  - first:
+      213: -3615571670043663319
+    second: TX Village Props_330
+  - first:
+      213: -1840195608748833565
+    second: TX Village Props_331
+  - first:
+      213: -2001956194198186410
+    second: TX Village Props_332
+  - first:
+      213: -4019272291153476553
+    second: TX Village Props_333
+  - first:
+      213: -3592038661979858374
+    second: TX Village Props_334
+  - first:
+      213: 4411837991065035846
+    second: TX Village Props_335
+  - first:
+      213: -8189459361616336134
+    second: TX Village Props_336
+  - first:
+      213: 4605133663719114372
+    second: TX Village Props_337
+  - first:
+      213: 1757888069649666720
+    second: TX Village Props_338
+  - first:
+      213: 5933742085160249166
+    second: TX Village Props_339
+  - first:
+      213: 3024185262196893333
+    second: TX Village Props_340
+  - first:
+      213: -3377829675108916528
+    second: TX Village Props_341
+  - first:
+      213: -5983388424296751421
+    second: TX Village Props_342
+  - first:
+      213: 3264669577332721647
+    second: TX Village Props_343
+  - first:
+      213: 5182216515001057494
+    second: TX Village Props_344
+  - first:
+      213: -8147019404063606304
+    second: TX Village Props_345
+  - first:
+      213: -3201524694991667344
+    second: TX Village Props_346
+  - first:
+      213: 4446041965971899356
+    second: TX Village Props_347
+  - first:
+      213: -5736247021993383580
+    second: TX Village Props_348
+  - first:
+      213: 7044632208110140381
+    second: TX Village Props_349
+  - first:
+      213: -3025723776787879710
+    second: TX Village Props_350
+  - first:
+      213: -9094083563746893726
+    second: TX Village Props_351
+  - first:
+      213: -2081391798041003117
+    second: TX Village Props_352
+  - first:
+      213: 7874753991208093886
+    second: TX Village Props_353
+  - first:
+      213: -4662101200716452619
+    second: TX Village Props_354
+  - first:
+      213: -5828470125657122017
+    second: TX Village Props_355
+  - first:
+      213: -5920781780532916127
+    second: TX Village Props_356
+  - first:
+      213: 1069251012976626629
+    second: TX Village Props_357
+  - first:
+      213: -8838222427237102981
+    second: TX Village Props_358
+  - first:
+      213: 5860266301560835357
+    second: TX Village Props_359
+  - first:
+      213: 656174553683027562
+    second: TX Village Props_360
+  - first:
+      213: 5467499519264607599
+    second: TX Village Props_361
+  - first:
+      213: 5023288696125868218
+    second: TX Village Props_362
+  - first:
+      213: -7336618382005072052
+    second: TX Village Props_363
+  - first:
+      213: -1640276766210750861
+    second: TX Village Props_364
+  - first:
+      213: -7999077192735027388
+    second: TX Village Props_365
+  - first:
+      213: -3432240984731298260
+    second: TX Village Props_366
+  - first:
+      213: 3522476501860883853
+    second: TX Village Props_367
+  - first:
+      213: 8058950883511409682
+    second: TX Village Props_368
+  - first:
+      213: -5827478347944202874
+    second: TX Village Props_369
+  - first:
+      213: -6192147525282198203
+    second: TX Village Props_370
+  - first:
+      213: -6631487683672659676
+    second: TX Village Props_371
+  - first:
+      213: 7070566776044454433
+    second: TX Village Props_372
+  - first:
+      213: -5729481844452073630
+    second: TX Village Props_373
+  - first:
+      213: 2470936613554042139
+    second: TX Village Props_374
+  - first:
+      213: 6441236058959172538
+    second: TX Village Props_375
+  - first:
+      213: -1341448986988873802
+    second: TX Village Props_376
+  - first:
+      213: 2811593266148993686
+    second: TX Village Props_377
+  - first:
+      213: -4503465363466277501
+    second: TX Village Props_378
+  - first:
+      213: 8100607855213363493
+    second: TX Village Props_379
+  - first:
+      213: -6677729762507219717
+    second: TX Village Props_380
+  - first:
+      213: 3834946539160486866
+    second: TX Village Props_381
+  - first:
+      213: -7161191357994246893
+    second: TX Village Props_382
+  - first:
+      213: -6768695699341013920
+    second: TX Village Props_383
+  - first:
+      213: 2696694984569424629
+    second: TX Village Props_384
+  - first:
+      213: -7040249944039956140
+    second: TX Village Props_385
+  - first:
+      213: -7931677687898895142
+    second: TX Village Props_386
+  - first:
+      213: 6575398112616860284
+    second: TX Village Props_387
+  - first:
+      213: -6674877185145704426
+    second: TX Village Props_388
+  - first:
+      213: 643931672344326569
+    second: TX Village Props_389
+  - first:
+      213: -3282783118175601528
+    second: TX Village Props_390
+  - first:
+      213: -8266028758126193495
+    second: TX Village Props_391
+  - first:
+      213: -2432793024398110692
+    second: TX Village Props_392
+  - first:
+      213: -2210382420186804661
+    second: TX Village Props_393
+  - first:
+      213: -6685462754655672654
+    second: TX Village Props_394
+  - first:
+      213: -2133671378700036855
+    second: TX Village Props_395
+  - first:
+      213: 5339606378019078668
+    second: TX Village Props_396
+  - first:
+      213: 3911892376151256465
+    second: TX Village Props_397
+  - first:
+      213: -7758753679738309905
+    second: TX Village Props_398
+  - first:
+      213: 8506195348959551389
+    second: TX Village Props_399
+  - first:
+      213: -2782473690174791147
+    second: TX Village Props_400
+  - first:
+      213: 8110572700768426739
+    second: TX Village Props_401
+  - first:
+      213: 8888444768204708789
+    second: TX Village Props_402
+  - first:
+      213: 553202345506972857
+    second: TX Village Props_403
+  - first:
+      213: 8088024902518674177
+    second: TX Village Props_404
+  - first:
+      213: 2388546351382080725
+    second: TX Village Props_405
+  - first:
+      213: 7724511164987552596
+    second: TX Village Props_406
+  - first:
+      213: -943995206688534885
+    second: TX Village Props_407
+  - first:
+      213: -5527821887601704356
+    second: TX Village Props_408
+  - first:
+      213: -8451495383614992930
+    second: TX Village Props_409
+  - first:
+      213: 3070365747144050870
+    second: TX Village Props_410
+  - first:
+      213: -7084507376913478502
+    second: TX Village Props_411
+  - first:
+      213: 8396860323794673711
+    second: TX Village Props_412
+  - first:
+      213: -4011693737852976579
+    second: TX Village Props_413
+  - first:
+      213: -792208400922656749
+    second: TX Village Props_414
+  - first:
+      213: -936707007964010524
+    second: TX Village Props_415
+  - first:
+      213: 2126292635687954701
+    second: TX Village Props_416
+  - first:
+      213: -4495015223343528992
+    second: TX Village Props_417
+  - first:
+      213: -1494719199288850986
+    second: TX Village Props_418
+  - first:
+      213: 6695850497455570372
+    second: TX Village Props_419
+  - first:
+      213: 8673995340289149200
+    second: TX Village Props_420
+  - first:
+      213: -7093377056930996840
+    second: TX Village Props_421
+  - first:
+      213: -7588809023255147483
+    second: TX Village Props_422
+  - first:
+      213: -3410275029387040271
+    second: TX Village Props_423
+  - first:
+      213: -7443260409412984848
+    second: TX Village Props_424
+  - first:
+      213: 4388314115667024723
+    second: TX Village Props_425
+  - first:
+      213: 7171452459577171006
+    second: TX Village Props_426
+  - first:
+      213: 3688138242931262932
+    second: TX Village Props_427
+  - first:
+      213: -441079329666855133
+    second: TX Village Props_428
+  - first:
+      213: -6925041594106537456
+    second: TX Village Props_429
+  - first:
+      213: -8542431092313674318
+    second: TX Village Props_430
+  - first:
+      213: -6949876484588388650
+    second: TX Village Props_431
+  - first:
+      213: -5923532984691021195
+    second: TX Village Props_432
+  - first:
+      213: -4112908349075107086
+    second: TX Village Props_433
+  - first:
+      213: -4823056058707111388
+    second: TX Village Props_434
+  - first:
+      213: 4223340283793855793
+    second: TX Village Props_435
+  - first:
+      213: 7472736591955389
+    second: TX Village Props_436
+  - first:
+      213: -6469357348646795537
+    second: TX Village Props_437
+  - first:
+      213: 871314021374955613
+    second: TX Village Props_438
+  - first:
+      213: -5595934260585403314
+    second: TX Village Props_439
+  - first:
+      213: 3155286460397174205
+    second: TX Village Props_440
+  - first:
+      213: -1358508250051762503
+    second: TX Village Props_441
+  - first:
+      213: 4059409969189978265
+    second: TX Village Props_442
+  - first:
+      213: 5782166040899123062
+    second: TX Village Props_443
+  - first:
+      213: -3222067648785210591
+    second: TX Village Props_444
+  - first:
+      213: 3258269083257432598
+    second: TX Village Props_445
+  - first:
+      213: 7294435721518895252
+    second: TX Village Props_446
+  - first:
+      213: -286292727987756776
+    second: TX Village Props_447
+  - first:
+      213: 3152537121505106505
+    second: TX Village Props_448
+  - first:
+      213: 6707920959495660935
+    second: TX Village Props_449
+  - first:
+      213: 6077223980540193869
+    second: TX Village Props_450
+  - first:
+      213: 3398060884602977801
+    second: TX Village Props_451
+  - first:
+      213: 8656479076430486476
+    second: TX Village Props_452
+  - first:
+      213: 7097539144916816044
+    second: TX Village Props_453
+  - first:
+      213: 5395323185842213017
+    second: TX Village Props_454
+  - first:
+      213: -1227807596308699008
+    second: TX Village Props_455
+  - first:
+      213: 8583769286363034946
+    second: TX Village Props_456
+  - first:
+      213: -5549053270661009607
+    second: TX Village Props_457
+  - first:
+      213: -7058723198011879392
+    second: TX Village Props_458
+  - first:
+      213: -7439898271949523113
+    second: TX Village Props_459
+  - first:
+      213: -5884036613276352956
+    second: TX Village Props_460
+  - first:
+      213: 4302384917362915318
+    second: TX Village Props_461
+  - first:
+      213: -3899776487755884580
+    second: TX Village Props_462
+  - first:
+      213: 6896363998397149750
+    second: TX Village Props_463
+  - first:
+      213: -4817336234228072266
+    second: TX Village Props_464
+  - first:
+      213: -7634055678068228816
+    second: TX Village Props_465
+  - first:
+      213: -5607741329105479314
+    second: TX Village Props_466
+  - first:
+      213: -8182503588637771875
+    second: TX Village Props_467
+  - first:
+      213: -8596163340331087252
+    second: TX Village Props_468
+  - first:
+      213: -171196787271519553
+    second: TX Village Props_469
+  - first:
+      213: 4984962226973368849
+    second: TX Village Props_470
+  - first:
+      213: 9160974727288050078
+    second: TX Village Props_471
+  - first:
+      213: -133324315355002558
+    second: TX Village Props_472
+  - first:
+      213: -5758462091910887191
+    second: TX Village Props_473
+  - first:
+      213: -1167744695840952230
+    second: TX Village Props_474
+  - first:
+      213: 6759081065286074563
+    second: TX Village Props_475
+  - first:
+      213: -4607461134195366127
+    second: TX Village Props_476
+  - first:
+      213: 2833922642662695483
+    second: TX Village Props_477
+  - first:
+      213: -3140397597272188031
+    second: TX Village Props_478
+  - first:
+      213: 1972111611000442815
+    second: TX Village Props_479
+  - first:
+      213: 6231541155750371539
+    second: TX Village Props_480
+  - first:
+      213: 5942688043123406855
+    second: TX Village Props_481
+  - first:
+      213: -4641596755142419278
+    second: TX Village Props_482
+  - first:
+      213: 8246741370305645980
+    second: TX Village Props_483
+  - first:
+      213: 1174554852245550910
+    second: TX Village Props_484
+  - first:
+      213: -3862545108224728691
+    second: TX Village Props_485
+  - first:
+      213: 4369390908263814528
+    second: TX Village Props_486
+  - first:
+      213: 8058311609576450186
+    second: TX Village Props_487
+  - first:
+      213: 7988115905871616345
+    second: TX Village Props_488
+  - first:
+      213: 4314212755452877263
+    second: TX Village Props_489
+  - first:
+      213: -4875620395328570725
+    second: TX Village Props_490
+  - first:
+      213: 6340718214063627812
+    second: TX Village Props_491
+  - first:
+      213: -5811924249368411940
+    second: TX Village Props_492
+  - first:
+      213: -401467639200889134
+    second: TX Village Props_493
+  - first:
+      213: -7051178939195220429
+    second: TX Village Props_494
+  - first:
+      213: 4682362009449908235
+    second: TX Village Props_495
+  - first:
+      213: -2796369791644422560
+    second: TX Village Props_496
+  - first:
+      213: -7373493088938129868
+    second: TX Village Props_497
+  - first:
+      213: -3089139976299999127
+    second: TX Village Props_498
+  - first:
+      213: 6861993492954728632
+    second: TX Village Props_499
+  - first:
+      213: 8049870114274032233
+    second: TX Village Props_500
+  - first:
+      213: 2504054871874163694
+    second: TX Village Props_501
+  - first:
+      213: -5653048919375391781
+    second: TX Village Props_502
+  - first:
+      213: 8873976733897423785
+    second: TX Village Props_503
+  - first:
+      213: -3984335961738911899
+    second: TX Village Props_504
+  - first:
+      213: 4831961270063130499
+    second: TX Village Props_505
+  - first:
+      213: -1314190096298746453
+    second: TX Village Props_506
+  - first:
+      213: -2931484014597281767
+    second: TX Village Props_507
+  - first:
+      213: -8345338381713151064
+    second: TX Village Props_508
+  - first:
+      213: 528517202492124830
+    second: TX Village Props_509
+  - first:
+      213: -1740175918037736703
+    second: TX Village Props_510
+  - first:
+      213: 84944245403300181
+    second: TX Village Props_511
+  - first:
+      213: 2581118949966517636
+    second: TX Village Props_512
+  - first:
+      213: 2538827583977105048
+    second: TX Village Props_513
+  - first:
+      213: 8417335584425608799
+    second: TX Village Props_514
+  - first:
+      213: 8565423427957837562
+    second: TX Village Props_515
+  - first:
+      213: 4136382135617490228
+    second: TX Village Props_516
+  - first:
+      213: 3259595241346538331
+    second: TX Village Props_517
+  - first:
+      213: 1735499480930739377
+    second: TX Village Props_518
+  - first:
+      213: 6369479082429220191
+    second: TX Village Props_519
+  - first:
+      213: 5841289368946045250
+    second: TX Village Props_520
+  - first:
+      213: 8532690122130185449
+    second: TX Village Props_521
+  - first:
+      213: 628958662187952423
+    second: TX Village Props_522
+  - first:
+      213: -4842353118624454916
+    second: TX Village Props_523
+  - first:
+      213: 2210988409566883571
+    second: TX Village Props_524
+  - first:
+      213: -7444020300449910169
+    second: TX Village Props_525
+  - first:
+      213: -5571016936104582392
+    second: TX Village Props_526
+  - first:
+      213: 7252070524808937733
+    second: TX Village Props_527
+  - first:
+      213: -7855811443884607579
+    second: TX Village Props_528
+  - first:
+      213: 3214226643834767813
+    second: TX Village Props_529
+  - first:
+      213: -2515502915042970754
+    second: TX Village Props_530
+  - first:
+      213: 1800323817482529914
+    second: TX Village Props_531
+  - first:
+      213: 8687560389058409436
+    second: TX Village Props_532
+  - first:
+      213: 8621930359284708866
+    second: TX Village Props_533
+  - first:
+      213: -6875510854431564909
+    second: TX Village Props_534
+  - first:
+      213: -5164382146857262958
+    second: TX Village Props_535
+  - first:
+      213: 1607395745476703035
+    second: TX Village Props_536
+  - first:
+      213: 4930041331639845836
+    second: TX Village Props_537
+  - first:
+      213: -3126999244959728543
+    second: TX Village Props_538
+  - first:
+      213: 8414859337191226573
+    second: TX Village Props_539
+  - first:
+      213: -4428038556910389327
+    second: TX Village Props_540
+  - first:
+      213: -3963974400079488732
+    second: TX Village Props_541
+  - first:
+      213: -3035231802509763198
+    second: TX Village Props_542
+  - first:
+      213: 312829071547606164
+    second: TX Village Props_543
+  - first:
+      213: -7980548101743268745
+    second: TX Village Props_544
+  - first:
+      213: -7453270061697206483
+    second: TX Village Props_545
+  - first:
+      213: -6556760093839332656
+    second: TX Village Props_546
+  - first:
+      213: -2975276169174469057
+    second: TX Village Props_547
+  - first:
+      213: 1145637761644585402
+    second: TX Village Props_548
+  - first:
+      213: -6665074435313910997
+    second: TX Village Props_549
+  - first:
+      213: 7053934778264013594
+    second: TX Village Props_550
+  - first:
+      213: -7706921416598095382
+    second: TX Village Props_551
+  - first:
+      213: 7042209724571273788
+    second: TX Village Props_552
+  - first:
+      213: -8377556944511733381
+    second: TX Village Props_553
+  - first:
+      213: -8410312187919822913
+    second: TX Village Props_554
+  - first:
+      213: -1470842324177972500
+    second: TX Village Props_555
+  - first:
+      213: 383257372717171
+    second: TX Village Props_556
+  - first:
+      213: 8219933190877866505
+    second: TX Village Props_557
+  - first:
+      213: 4690992820153009007
+    second: TX Village Props_558
+  - first:
+      213: -3847456327317610850
+    second: TX Village Props_559
+  - first:
+      213: -5075435166622167919
+    second: TX Village Props_560
+  - first:
+      213: -3775112235291497967
+    second: TX Village Props_561
+  - first:
+      213: 2015350345514635971
+    second: TX Village Props_562
+  - first:
+      213: -7232797564251633600
+    second: TX Village Props_563
+  - first:
+      213: -4679340820586561084
+    second: TX Village Props_564
+  - first:
+      213: -6521684800833386511
+    second: TX Village Props_565
+  - first:
+      213: 5418903450861131878
+    second: TX Village Props_566
+  - first:
+      213: 9040548018149009647
+    second: TX Village Props_567
+  - first:
+      213: 4233037193405709367
+    second: TX Village Props_568
+  - first:
+      213: 1929113619013321286
+    second: TX Village Props_569
+  - first:
+      213: 3643480107284055416
+    second: TX Village Props_570
+  - first:
+      213: 3128186973258265408
+    second: TX Village Props_571
+  - first:
+      213: -4927814234267996093
+    second: TX Village Props_572
+  - first:
+      213: -7425135686194686506
+    second: TX Village Props_573
+  - first:
+      213: 2199968538441633517
+    second: TX Village Props_574
+  - first:
+      213: 8460061407972735912
+    second: TX Village Props_575
+  - first:
+      213: -7068564724403100731
+    second: TX Village Props_576
+  - first:
+      213: 4994868884149019325
+    second: TX Village Props_577
+  - first:
+      213: -2706226004906453233
+    second: TX Village Props_578
+  - first:
+      213: -1783340606439798794
+    second: TX Village Props_579
+  - first:
+      213: 3878872708745340193
+    second: TX Village Props_580
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX Village Props_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b6becdf5b72a410800000000000000
+      internalID: 1486886478644210460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 488
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb30d386998374eb0800000000000000
+      internalID: -4735754251626806338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 488
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58300b497ee04d3c0800000000000000
+      internalID: -4335824153456147579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 483
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daca0677f8cba140800000000000000
+      internalID: 4732096798645734099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 448
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc6a06d2a6afaab0800000000000000
+      internalID: -4994590243424670523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 448
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13aa2248e4cc6520800000000000000
+      internalID: 2696746778709631771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eb7d4f36d574bb0800000000000000
+      internalID: -4951886581379645941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 448
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b0f4784f290ae10800000000000000
+      internalID: 2206925396351322945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 447
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0a8ad27c5b00b30800000000000000
+      internalID: 4251597915306893488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 448
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a6ca63108a2bb80800000000000000
+      internalID: -8380451233417368952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 448
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331218bb4aa9a6e0800000000000000
+      internalID: -1825740931734564038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 384
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e9b0d69471f1e00800000000000000
+      internalID: 1017557644938550938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 423
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269e36a5d6c03fa60800000000000000
+      internalID: 7706517051168516450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 384
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388ac171f635538c0800000000000000
+      internalID: -4020215355764070269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 384
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9e23f17c2e42d40800000000000000
+      internalID: 5558817184931834347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 384
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b07cec75e9c620800000000000000
+      internalID: 2795017368465616972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_16
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 420
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0887205de69ceff90800000000000000
+      internalID: -6917870499737208704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_17
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 422
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23465a540992b9f0800000000000000
+      internalID: -454132368436477138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 384
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987c882c3b945fb10800000000000000
+      internalID: 2014597444729882505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 384
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf222dfb15770250800000000000000
+      internalID: 5910821799018508211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 384
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df007726ff8a9d0800000000000000
+      internalID: -2762677573023367823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 407
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3750fe0626f8187d0800000000000000
+      internalID: -2917893430863526541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 383
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aff34fd904755b70800000000000000
+      internalID: 8887137025434845088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 407
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da804ea72e517af40800000000000000
+      internalID: 5739580312575543469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_24
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 384
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c5efcb567ce40b0800000000000000
+      internalID: -5742433235074393073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 395
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b742087f50e0b91f0800000000000000
+      internalID: -1037219870388771717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 399
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358860b70357e02b0800000000000000
+      internalID: -5616422834201524141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 391
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e61f0c9c2448d7c0800000000000000
+      internalID: -4046409306804906269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 383
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1a9b2fdd3c7dd80800000000000000
+      internalID: -8225890836341481029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be538bd2d27b0e450800000000000000
+      internalID: 6116089698637592043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 352
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a98d62ae11d22d0800000000000000
+      internalID: -3301963254420956640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 351
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1e17125c26f63a0800000000000000
+      internalID: -6670003924303224352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 256
+        width: 87
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910e8c8c9ac4d8ae0800000000000000
+      internalID: -1545494805016420327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 256
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1766f2c20213ffd70800000000000000
+      internalID: 9079029388052227697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 310
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1daf1a1fe25b6b70800000000000000
+      internalID: 8893293076062121246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_35
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 287
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ec4fb26c25ff720800000000000000
+      internalID: 2882113297634872891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 287
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3b9353bdb4693a0800000000000000
+      internalID: -6659051594157804580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_37
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 288
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8add3a772f74dac0800000000000000
+      internalID: -3831297575454123378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 256
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30abdbb0d42489d90800000000000000
+      internalID: -7090844714617947645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 256
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ee09971ec88d80800000000000000
+      internalID: -8248116116781604426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_40
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 258
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c713fc25b3d6e90800000000000000
+      internalID: -7030898216405992398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 225
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc373c3abcdc8440800000000000000
+      internalID: 4939565583750872262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 185
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbf55cf8d4738570800000000000000
+      internalID: 8467740199681915834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 160
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c0064a7be272090800000000000000
+      internalID: -8059421641884562397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_44
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 182
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f051da82a4f7800800000000000000
+      internalID: 612289612908662662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_45
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 224
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9822874dded9bb0800000000000000
+      internalID: -4927520920469075542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef464f20dd0b8f10800000000000000
+      internalID: 2272925624736042976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_47
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 32
+        width: 153
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf7a6e453c0b3b0800000000000000
+      internalID: -5498680375604937676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 127
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1077d8da39583eeb0800000000000000
+      internalID: -4691759517471508735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac45c6cfdc1c4a80800000000000000
+      internalID: -8481372250807382872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_50
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89c5988ccfdd85c0800000000000000
+      internalID: -4211464006963705457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_51
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 127
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40fa67075bee0920800000000000000
+      internalID: 2958560764248125516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 128
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2582c23281d7205b0800000000000000
+      internalID: -5403619060268390318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5e363dcd7d9e510800000000000000
+      internalID: 1579030487809385918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 89
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4a5a45cb6e52360800000000000000
+      internalID: 7144370080441541854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Village Props_55
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 64
+        width: 95
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5cdf2b4c065740800000000000000
+      internalID: 5140309541755051048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dcdb55578e4278b47aee08da2386b03c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
