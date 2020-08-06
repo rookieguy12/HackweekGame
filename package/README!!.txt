@@ -1,0 +1,4 @@
+1.需要用cinemachine
+
+
+2.导入包之后把TagManager.asset文件覆盖掉ProjectSettings里面的对应文件

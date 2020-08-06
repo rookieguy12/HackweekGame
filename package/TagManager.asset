@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - button
+  - collection
+  - Enemy
+  - Dog
+  - Frog
+  - Eagle
+  - cherry
+  - diamond
+  - win
+  - hide
+  - fall
+  - exit
+  - end
+  - spawnpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - lift
+  - fox
+  - eagle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 234387079
+    locked: 0
+  - name: Middleground
+    uniqueID: 1524801529
+    locked: 0
+  - name: Environmentground
+    uniqueID: 286208961
+    locked: 0
+  - name: Playground
+    uniqueID: 1773524365
+    locked: 0
+  - name: Frontground
+    uniqueID: 2156785903
+    locked: 0
